@@ -2,30 +2,35 @@ div {
     border: dotted;
     padding: 20px;
     margin: 30px;
+    background-color: Yellow;
 }
 
 h1 {
     border: dotted;
     padding: 20px;
     margin: 30px
+    background-color: Yellow;
 }
 
 h5 {
     border: dotted;
     padding: 20px;
     margin: 30px;
+    background-color: Yellow;
 }
 
 ol {
     border: dotted;
     padding: 20px;
     margin: 30px;
+    background-color: Maroon;
 }
 
 li {
     border: dotted;
     padding: 20px;
     margin: 30px;
+    background-color: Maroon;
 }
 
 body {
