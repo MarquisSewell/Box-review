@@ -16,7 +16,7 @@ h5 {
     margin: 30px;
 }
 
-ul {
+ol {
     border: dotted;
     padding: 20px;
     margin: 30px;
@@ -26,4 +26,8 @@ li {
     border: dotted;
     padding: 20px;
     margin: 30px;
+}
+
+body {
+    background-color: Maroon;
 }
